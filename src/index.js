@@ -9,3 +9,8 @@ if (( testAddNumbers > 10 ) && (testAddNumbers < 20)) {
 } else {
     console.log("The number is too small!")
 }
+
+for (ii = 0; ii <= 100; ii ++) {
+    var number = ii
+    console.log(number)
+}
