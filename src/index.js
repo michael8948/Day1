@@ -3,4 +3,7 @@ var addNumber = function (x,y) {
     return total
 }
 var testAddNumbers = addNumber(4,8)
-console.log(testAddNumbers);
+// ===; <;>;<=;>=;!==
+if( testAddNumbers > 10 ) {
+    console.log(testAddNumbers)
+}
